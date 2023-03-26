@@ -1,7 +1,7 @@
 
 
 ![Header](https://raw.githubusercontent.com/Nityam24/Nityam24/main/github-header-image%20(1).png)
-<h1 align="center">Hi 👋, I'm Nityam Patel</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px">, I'm Nityam Patel</h1>
 <h3 align="center">Enthusiastic web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/animated-programmer-guy-coding-790a0bs8e8thpisg.gif">
 
