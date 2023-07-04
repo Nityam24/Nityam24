@@ -1,7 +1,7 @@
 
 
 ![Header](https://raw.githubusercontent.com/Nityam24/Nityam24/main/github-header-image%20(1).png)
-<h2 align="left">Hey, I'm Nityam Patel <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
+<h2 align="left">Hey! I'm Nityam Patel <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nityam24&label=Profile%20views&color=0e75b6&style=flat" alt="Nityam24" /> </p>
 
@@ -19,7 +19,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/nityam-patel-928815231/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/MadhvaniParth" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/Nityam_024" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
   <a href="https://madhvaniparth.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
   <a href="https://instagram.com/madhvani_parth" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
   <a href="mailto:madhvaniparth2@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
