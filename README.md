@@ -1,6 +1,6 @@
 
 
-![Header](https://raw.githubusercontent.com/Nityam24/Nityam24/main/header_photo.htm)
+![Header](https://raw.githubusercontent.com/Nityam24/Nityam24/main/banner.jpeg)
 <h2 align="left">Hey! I'm Nityam Patel <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nityam24&label=Profile%20views&color=0e75b6&style=flat" alt="Nityam24" /> </p>
