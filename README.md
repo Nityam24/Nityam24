@@ -27,12 +27,12 @@
 <h2 align="left">About me👨‍💻</h2>
 
 ```JavaScript
-const ParthMadhvani2 = {
-  fulName: "Parth Madhvani",
+const Nityam24 = {
+  fulName: "Nityam patel",
   pronouns: "He/Him",
-  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Communities🎯" , "Competitive Programming"],
+  tags: [ "full-stack Developer❤️" , "Open-Source🚀" , "Hackathons⚡" , "Communities🎯" , "Competitive Programming"],
   askMeAbout: [ "Web Development", "DSA" , "Open Source" ],
-  reachMeOut: ["madhvaniparth2@gmail.com"],
+  reachMeOut: ["nityampatel2402@gmail.com"],
 }
 ```
 
@@ -50,11 +50,15 @@ const ParthMadhvani2 = {
  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
  <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+ <img alt="express"src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img alt=" NEXT" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img alt="Node.Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
 <p>Databases :
 <div>
  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="mongo.db" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </div>
 
 <p>Tools and Technologies :</p>
@@ -64,7 +68,7 @@ const ParthMadhvani2 = {
  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
  <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
  <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
- <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>	
+ 
 </div>
 </p>
 
