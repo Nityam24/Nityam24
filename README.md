@@ -24,4 +24,64 @@
   <a href="mailto:nityampatel2402@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
+<h2 align="left">About me👨‍💻</h2>
+
+```JavaScript
+const ParthMadhvani2 = {
+  fulName: "Parth Madhvani",
+  pronouns: "He/Him",
+  tags: [ "Frontend❤️" , "Open-Source🚀" , "Hackathons⚡" , "Communities🎯" , "Competitive Programming"],
+  askMeAbout: [ "Web Development", "DSA" , "Open Source" ],
+  reachMeOut: ["madhvaniparth2@gmail.com"],
+}
+```
+
+<h2 align="left">Skills🚀</h2>
+<p>Languages :</p>
+<div>
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />	
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>	
+ <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div>
+
+<p>Libraries and Frameworks :
+<div>
+ <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+ <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
+ <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<p>Databases :
+<div>
+ <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
+
+<p>Tools and Technologies :</p>
+<div>
+ <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+ <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+ <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+ <img alt="AdobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>
+ <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+ <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"/>	
+</div>
+</p>
+
+<p>☁️ Hosting/SaaS :</p>
+<div>
+ <img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ <img alt="Netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+</div>
+</p>
+
+<div>
+<h2>Stats📈</h2>	
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthmadhvani2&show_icons=true&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthmadhvani2&theme=tokyonight" />
+</p>
+</div>
 
