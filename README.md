@@ -84,8 +84,8 @@ const Nityam24 = {
 <h2>Stats📈</h2>	
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=parthmadhvani2&show_icons=true&theme=tokyonight" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=parthmadhvani2&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nityam24&show_icons=true&theme=tokyonight" />
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nityam24&theme=tokyonight" />
 </p>
 </div>
 
